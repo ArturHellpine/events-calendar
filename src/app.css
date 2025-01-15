@@ -1,0 +1,10 @@
+.today {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #ec0e22;
+    font-size: 20px;
+}
+
+.taskItem:active {
+    background-color: #94b1f1;
+}
